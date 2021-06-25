@@ -1,13 +1,13 @@
 
 
-<h1 align="centre">MoeMusicBot V4.5 🎵</h1>
+<h1 align="centre">MoeMusicBot V1.5 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
 ### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://64.media.tumblr.com/cf3f850f9bc8072aeae903e60be5646c/d60328036b9ee375-95/s500x750/d648fb25fe56d1a658109b65435fca201c12f00b.png">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -28,7 +28,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamOfDaisyX/MoeMusicBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MoeZilla/MoeMusicBot)
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
@@ -109,24 +109,18 @@ If you donlt like to play in linked channel:
 + Sudo Users can execute any command in any groups
 
 ### Credits
-Don't edit this part
-
-#### Special Credits
-- [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
-
-This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork MoeMusicBot won't exist. 
-MoeMusicBot is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @DaisyXbot users
-
-#### Contribtors
-- [InukaASiTH](https://github.com/InukaAsith): Dev
-- [Rojserbest](http://github.com/rojserbes): Dev
-- [Wrench](https://github.com/EverythingSuckz/): Dev
-- [Bemro](https://github.com/bemroofficial): Dev
-- [QueenArzoo](https://github.com/QueenArzoo): Dev
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev
+- [InukaASiTH](https://github.com/InukaAsith): 
+- [Rojserbest](http://github.com/rojserbes): 
+- [Wrench](https://github.com/EverythingSuckz/): 
+- [Bemro](https://github.com/bemroofficial): 
+- [QueenArzoo](https://github.com/QueenArzoo): 
+- [lucifeermorningstar](https://github.com/lucifeermorningstar): 
 - [AuraXNetwork](https://github.com/AuraXNetwork/AuraXMusicBot)
 - [Hamker Cat](https://github.com/thehamkercat/)
 - [Anjana-Ma](https://github.com/Anjana-Ma): 
 - [ImJanindu](https://github.com/ImJanindu): 
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
-- [Original Repo owners](https://github.com/suprojects/CallsMusic)
+- [Original Repo owners](https://github.com/teamofdaisy/daisyxmusic)
+
+This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork MoeMusicBot won't exist. 
+MoeMusicBot is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @DaisyXbot users
