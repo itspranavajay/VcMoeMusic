@@ -2,7 +2,7 @@
   "name": "MoeMusicBot",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/TeamofDaisyX/MoeMusicBot",
+  "repository": "https://github.com/MoeZilla/MoeMusicBot",
   "stack": "container",
   "buildpacks": [
    {
@@ -30,7 +30,7 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "DaisySupport_Official"
+      "value": "Support Group Name"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
@@ -49,12 +49,12 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": " https://telegra.ph/file/dcfdf612e499eef0e0b1f.png"
+      "value": "Telegraph image link"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "DaisyXupdates"
+      "value": "Updates name channel"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
