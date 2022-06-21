@@ -28,7 +28,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MoeZilla/MoeMusicBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[https://github.com/MoeZilla/MoeMusicBot](https://github.com/MoeZilla/VcMoeMusic))
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
@@ -36,7 +36,7 @@ Get pyrogram (p)  `SESSION` from here:
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/MoeZilla/MoeMusicBot
+$ git clone [https://github.com/MoeZilla/MoeMusicBot](https://github.com/MoeZilla/VcMoeMusic)
 $ cd MoeMusicBot
 # Upgrade sources
 # Install All Requirements 
